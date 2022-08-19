@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+html{
+
+    scroll-behavior: smooth;
+}
+
+
+
+
+body{
+
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    background: rgb(218, 17, 17);
+}
+
+
+.header{
+
+    
+
+   width: auto;
+    background: white;
+    justify-content: space-between;
+}
+
+
+
+.menu  ul img{
+    width: 176px;
+    height: 79px;
+}
+
+
+.menu  ul  {
+
+    list-style: none;
+
+}
+
+
+.menu li  {
+    margin-right: 20px;
+
+}
+
+.menu li.text {
+    color: rgba(255, 0, 0, 0.788);
+    font-weight: bold;
+
+
+}
+
+
+
+.conta ul li {
+display: flex;
+align-items: flex-end;
+justify-content: center;
+
+
+}
